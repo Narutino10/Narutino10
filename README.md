@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on **FiveZone**
 
-- 👨‍💻 All of my projects are available at [In my Repo](In my Repo)
+- 👨‍💻 All of my projects are available at In my Repo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
